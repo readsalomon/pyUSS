@@ -13,3 +13,10 @@ Limitations:
 - No eeprom features
 - Only PKW length = 127 (variable)
 - Only PZD length = 2
+
+Dependencies:
+ - python2.7
+ - pySerial
+ 
+Platforms:
+ - tested only on Linux
