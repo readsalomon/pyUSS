@@ -1,0 +1,21 @@
+Pinout for the USS-rs232 TTL pinout (as used by PC<->inverter connection kit and BOP). Uses 5V TTL serial!
+
+
+### This is the inverter front with BOP/RS232-TTL connector ("o" is a PIN of BOP/RS232 pinout):
+
+  SIEMENS
+  
+    1234
+    oooo
+    oooo
+    5678
+    
+    
+    
+    
+Pinout:
+
+6=Common Ground
+2=RX (INVERTED! 0V=idle)
+4=TX (5V=idle)
+
